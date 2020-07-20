@@ -1,0 +1,212 @@
+[
+    {
+        "name": "一般",
+        "param_type": "1",
+        "code": "height",
+        "type": 1,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "8EE7B19DFAC74C7E898E983785800A0A"
+    },
+    {
+        "name": "胸围",
+        "param_type": "1",
+        "code": "chest",
+        "type": 3,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "17A4564A4AC04DF5AA5DA0DA486BC2B0"
+    },
+    {
+        "name": "生理功能",
+        "param_type": "1",
+        "code": "pulse",
+        "type": 4,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "8e185be85aa84a69894d33bc80aee4dc"
+    },
+    {
+        "name": "肺活量",
+        "param_type": "1",
+        "code": "vital_capacity",
+        "type": 6,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "974DEF00FADE480EA8640D09048A1EAA"
+    },
+    {
+        "name": "50米跑",
+        "param_type": "1",
+        "code": "run_fiftym",
+        "type": 7,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "D4E320F6A79943DEA051909FCB9A333A"
+    },
+    {
+        "name": "立定跳远",
+        "param_type": "1",
+        "code": "standing_jump",
+        "type": 8,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "3C3FE6DE526A40E9A9C767D52DAB3DBA"
+    },
+    {
+        "name": "斜身引体(男)",
+        "param_type": "1",
+        "code": "oblique_pullups",
+        "type": 9,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "8CED5936B1B149D185C1817C79C25CC7"
+    },
+    {
+        "name": "引体向上(男)",
+        "param_type": "1",
+        "code": "pull_up",
+        "type": 10,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "00406BBF634F46F18AAD2BACC20848CD"
+    },
+    {
+        "name": "一分钟仰卧起坐(女)",
+        "param_type": "1",
+        "code": "sit_up",
+        "type": 11,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "440FAFF92A244067BFF66F93535CD40C"
+    },
+    {
+        "name": "握力",
+        "param_type": "1",
+        "code": "grip",
+        "type": 12,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "BBEFE6B76E5A4F7FAF613C8F1821230D"
+    },
+    {
+        "name": "50米*8往返跑",
+        "param_type": "1",
+        "code": "runback_fiftym",
+        "type": 13,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "9B07CA9871F3448EAD9D5B65FA8F0DC9"
+    },
+    {
+        "name": "800米跑(女)",
+        "param_type": "1",
+        "code": "run_ehm",
+        "type": 14,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "61565E92B26B4DC9A1A58D4F22A26664"
+    },
+    {
+        "name": "1000米跑(男)",
+        "param_type": "1",
+        "code": "run_othm",
+        "type": 15,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "4E43940DD0D2452DA021B8DF02AA1FD4"
+    },
+    {
+        "name": "坐位体前屈",
+        "param_type": "1",
+        "code": "bent_forward",
+        "type": 16,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "EECD8F0D74C34C1DB05BF5588F44C63D"
+    },
+    {
+        "name": "内科检查",
+        "param_type": "1",
+        "code": "internal",
+        "type": 17,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "C3B16749490B4FB6936FCE6ADC584239"
+    },
+    {
+        "name": "视力",
+        "param_type": "1",
+        "code": "eyesight",
+        "type": 18,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "EB8008CA3A4748A7A3A803EB250EAE4F"
+    },
+    {
+        "name": "俯卧背起",
+        "param_type": "1",
+        "code": "back_stomach",
+        "type": 19,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "7701F78D1DFB4D83AE4072FC87C4BE96"
+    },
+    {
+        "name": "龋齿",
+        "param_type": "1",
+        "code": "stomatology",
+        "type": 20,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "11C5EB39EBA34971ABE9C2109A91E508"
+    },
+    {
+        "name": "问卷调查",
+        "param_type": "2",
+        "code": "que_survey",
+        "type": 23,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "76CAF3BCA30D4E6D9193654AB41C2D55"
+    },
+    {
+        "name": "主检",
+        "param_type": "2",
+        "code": "main_inspection",
+        "type": 24,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "4CB1D6E85926467392DC1E194032AAF9"
+    },
+    {
+        "name": "屈光度",
+        "param_type": "1",
+        "code": "diopter",
+        "type": 25,
+        "status": 1,
+        "create_time": "2019/06/17 16:54:17",
+        "create_by": "1",
+        "id": "2AA7456DA01A484AA99391FF79745030"
+    }
+]
